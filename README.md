@@ -22,6 +22,7 @@ Why Newsletter: A newsletter is a tool used by businesses and organizations to s
 ## How to Sign Up:
 * You can sign up by going to this Heroku link: 
 https://dry-waters-07351.herokuapp.com/
+(signup will not work as API is disabled).
 
 ## Attached is a Video for how to sign up!
 
