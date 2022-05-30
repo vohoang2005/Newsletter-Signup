@@ -24,8 +24,12 @@ Why Newsletter: A newsletter is a tool used by businesses and organizations to s
 https://dry-waters-07351.herokuapp.com/
 
 ## Attached is a Video for how to sign up!
-[](..%5C..%5C..%5CDownloads%5CNewsletter%20Signup.webm)
 
-### Created by: Chuong Vo
+
+https://user-images.githubusercontent.com/37889335/170919040-43423c6c-72d1-4c46-ba35-735e91869661.mp4
+
+
 
 ### Reference: https://www.brafton.com/
+
+### Created by: Chuong Vo
